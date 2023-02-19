@@ -3,7 +3,7 @@ export default defineConfig({
     lang: "zh",
     title: "TypeScript 中文文档",
     description: "这是一个Typescript中文版文档",
-    base: "/typescriptdoc/",
+    base: "/td/",
     outDir: "../docs",
     themeConfig: {
         nav: [
